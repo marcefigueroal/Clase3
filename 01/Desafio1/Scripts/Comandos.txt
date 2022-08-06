@@ -1,0 +1,18 @@
+Ejercicio1:
+
+  mkdir foo
+  cd foo
+  mkdir dummy
+  cd dummy/
+  touch file1.txt
+  touch file2.txt
+  cd ..
+  mkdir empty
+  vi foo/dummy/file1.txt
+
+Ejercicio2
+  cat foo/dummy/file1.txt >> foo/dummy/file2.txt
+  mv foo/dummy/file2.txt foo/empty/
+
+Ejercicio3
+  
