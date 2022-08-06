@@ -6,6 +6,7 @@ Roxs es la líder de un equipo de trabajo para una compañía que realiza Audito
 #### Preguntas
 
 1. Identificar las medidas de seguridad a implementarse.
+
 Se debe otorgar permiso de lectura y escritura solo al usuario de Roxs quien debe ser el propietario del archivo.
 Además no deben compartirse las credenciales de la sesión del usuario.
 
